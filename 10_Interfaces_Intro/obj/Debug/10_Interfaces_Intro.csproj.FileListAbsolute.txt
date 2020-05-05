@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\10_Interfaces_Intro\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\10_Interfaces_Intro\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\10_Interfaces_Intro\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\10_Interfaces_Intro\bin\Debug\10_Interfaces_Intro.dll
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\10_Interfaces_Intro\bin\Debug\10_Interfaces_Intro.pdb
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\10_Interfaces_Intro\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\10_Interfaces_Intro\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\10_Interfaces_Intro\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\10_Interfaces_Intro\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\10_Interfaces_Intro\obj\Debug\10_Interfaces_Intro.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\10_Interfaces_Intro\obj\Debug\10_Interfaces_Intro.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\10_Interfaces_Intro\obj\Debug\10_Interfaces_Intro.csproj.CopyComplete
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\10_Interfaces_Intro\obj\Debug\10_Interfaces_Intro.dll
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\10_Interfaces_Intro\obj\Debug\10_Interfaces_Intro.pdb

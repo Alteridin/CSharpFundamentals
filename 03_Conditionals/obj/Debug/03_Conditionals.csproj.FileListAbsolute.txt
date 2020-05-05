@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\03_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\03_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\03_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\03_Conditionals\bin\Debug\03_Conditionals.dll
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\03_Conditionals\bin\Debug\03_Conditionals.pdb
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\03_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\03_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\03_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\03_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\03_Conditionals\obj\Debug\03_Conditionals.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\03_Conditionals\obj\Debug\03_Conditionals.csproj.CopyComplete
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\03_Conditionals\obj\Debug\03_Conditionals.dll
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\03_Conditionals\obj\Debug\03_Conditionals.pdb
+C:\ElevenFiftyProjects\Gold Badge\CSharpFundamental\03_Conditionals\obj\Debug\03_Conditionals.csproj.CoreCompileInputs.cache
